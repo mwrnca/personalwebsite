@@ -5,7 +5,6 @@ const navItems = [
   { label: "HOME", id: "home" },
   { label: "ABOUT ME", id: "about-me" },
   { label: "PROJECTS", id: "projects" },
-  { label: "FIND ME", id: "find-me" },
 ];
 
 export default function Nav() {
