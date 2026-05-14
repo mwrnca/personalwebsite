@@ -31,5 +31,13 @@ export const projects = [
   //   github: " ",
   //   live: null,
   // },
+      {
+    id: 1,
+    title: "STANLEIZ",
+    description: "A pomoculture brand whose main focus are table grapes,wine grapes and grape wine. Offering a wide selection of fruits as well as training and seedlings.",
+    tags: ["REACT", "CSS"],
+    github: "https://github.com/mwrnca/stanleiz.git",
+    live: "https://stanleiz-341gk920f-mwrncas-projects.vercel.app/",
+  },
   // add more projects here — just copy the object above and fill in the details
 ];
