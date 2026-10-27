@@ -4,12 +4,12 @@ export default function About() {
   return (
     <section className="about-section" id="about-me">
       <p className="section-eyebrow">02 ✦ ABOUT ME</p>
-      <h2 className="about-heading">FRONTEND<br />DEVELOPER</h2>
+      <h2 className="about-heading">FULL STACK<br />DEVELOPER</h2>
 
       <div className="about-body">
         <div className="about-bio">
           <p>
-            I'm a frontend developer and student at Moringa School in Nairobi,
+            I'm a full stack developer and student at Moringa School in Nairobi,
             building web experiences that are fast, intentional, and sharp.
           </p>
           <p>
@@ -29,7 +29,7 @@ export default function About() {
           </div>
           <div className="fact">
             <span className="fact-label">FOCUS</span>
-            <span className="fact-value">FRONTEND / UI</span>
+            <span className="fact-value">API  Infrastructure</span>
           </div>
           <div className="fact">
             <span className="fact-label">STATUS</span>
